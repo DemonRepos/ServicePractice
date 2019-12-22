@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServiceMasterAndroidPro</string>
+    <string name="greetings">Enter the number</string>
+    <string name="butText">Вычислить</string>
+    <string name="answer">Ответ здесь</string>
+</resources>
